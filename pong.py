@@ -114,7 +114,7 @@ def main():
 	paddle2_up = paddle2_down = False
 
 	while True:
-		clock.tick(60)
+		clock.tick(30)
 
 		for event in pg.event.get():
 			if event.type == QUIT:
