@@ -99,7 +99,7 @@ def main():
 	pg.init()
 
 	size = width, height = 640, 480
-	screen = pg.display.set_mode(size, pg.FULLSCREEN)
+	screen = pg.display.set_mode(size)
 	clock = pg.time.Clock()
 	font = pg.font.Font(None, 92)
 
