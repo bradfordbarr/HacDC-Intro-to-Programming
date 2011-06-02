@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # there are some magic numbers around, but that's the point
 # right?
-#
 
 """
 A simple ball that hits a pong paddle
