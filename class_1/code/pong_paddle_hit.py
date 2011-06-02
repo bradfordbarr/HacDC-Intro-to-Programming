@@ -13,8 +13,11 @@ from pygame.locals import *
 # some globals
 SCREEN_WIDTH  = 640
 SCREEN_HEIGHT = 480 
+FRAMERATE = 30
 # initialize pygame
 pygame.init()
+# make a clock so things don't move ungodly fast
+clock = pygame.time.Clock()
 # create a display surface
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Pong paddle!")
@@ -25,7 +28,7 @@ paddle_y = SCREEN_HEIGHT / 2
 # define ball variables
 ball_x = SCREEN_WIDTH / 2
 ball_y = SCREEN_HEIGHT / 2
-ball_dx = 5
+ball_dx = 1
 
 # background stuff
 background = pygame.Surface(screen.get_size())
@@ -33,6 +36,7 @@ background.fill((0, 0, 0))
 
 # infinite loop
 while True:
+    clock.tick(FRAMERATE)
     # clear the screen
     screen.blit(background, (0, 0))
     # draw paddle
@@ -40,12 +44,12 @@ while True:
     # draw ball
     pygame.draw.circle(screen, (0, 255, 0), (ball_x, ball_y-5), 10)
     # update ball's position
-    ball_x += ball_dx
+    ball_x = ball_x + ball_dx
     # if the ball reaches the ends of the screen, bounce back
     if (ball_x >= SCREEN_WIDTH) or (ball_x <= 0):
         ball_dx *= -1
     # if the ball hits the paddle, bounce back
-    if ball_x-5 <= paddle_x + 10:
+    if ball_x-10 <= paddle_x + 20:
         ball_dx *=-1
     # flip display
     pygame.display.flip()
