@@ -93,7 +93,7 @@ class Ball(object):
         # so that is truly centered
         self.x = (SCREEN_WIDTH / 2) - self.radius
         self.y = (SCREEN_HEIGHT / 2) - self.radius
-        self.dx = random.randint(-3, 3)
+        self.dx = random.randint(-3, 3) # there's a bug in this line, find a a way to fix it
         self.dy = random.randint(-6, 6)
 
     def update(self):
