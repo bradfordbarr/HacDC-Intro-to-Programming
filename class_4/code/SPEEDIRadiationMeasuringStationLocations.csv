@@ -1,0 +1,223 @@
+Station_ID,Site_ID,Site_Name_JP,Site_Name_EN,Prefecture_ID,Prefecture_Name_JP,Prefecture_Name_EN,Station_Name_JP,Station_Name2_JP,Station_Name_EN [1],Station_Name2_EN [2],Latitude,Longitude
+1010000005,1,北海道,Hokkaido,1,北海道,Hokkaido,神恵内村　神恵内,かもえないむら かもえない,Kamoenai,Kamoenai Kamoenai Village,43.14740644,140.421104
+1010000001,1,北海道,Hokkaido,1,北海道,Hokkaido,泊村　茅沼,とまりむら かやぬま,Kayanuma,Kayanuma Tomari Village,43.057419,140.498604
+1010000006,1,北海道,Hokkaido,1,北海道,Hokkaido,泊村　茶津,とまりむら ちゃつ,Chatsu,Chatsu Tomari Village,43.04297639,140.50916
+1010000007,1,北海道,Hokkaido,1,北海道,Hokkaido,泊村　ヘロカルウス,とまりむら へろかるうす,Herokaruusu,Herokaruusu Tomari Village,43.03769941,140.5230482
+1010000008,1,北海道,Hokkaido,1,北海道,Hokkaido,泊村　堀株神社,とまりむら ほりかっぷじんじゃ,Horikappu Jinja,Horikappu Jinja Tomari Village,43.03186676,140.5222153
+1010000009,1,北海道,Hokkaido,1,北海道,Hokkaido,共和町　気象観測局,きょうわちょう きしょうかんそくきょく,Meteorological Obsevatory,The Meteorological Obsevatory of Kyowa Town,43.03131158,140.5369363
+1010000002,1,北海道,Hokkaido,1,北海道,Hokkaido,共和町　発足,きょうわちょう はったり,Hattari,Hattari Kyowa Town,43.01603644,140.5688791
+1010000003,1,北海道,Hokkaido,1,北海道,Hokkaido,共和町　南幌似,きょうわちょう みなみほろに,Minami-Horoni,Minami-Horoni Kyowa Town,42.98187503,140.6124891
+1010000004,1,北海道,Hokkaido,1,北海道,Hokkaido,岩内町　岩内,いわないちょう いわない,Iwanai,Iwanai Iwanai Town,42.97937341,140.510553
+1020000026,2,青森県,Aomori,2,青森県,Aomori,東通村　砂子又,ひがしどおりむら すなごまた,Sunagomata,Sunagomata Higasidoori Village,41.27708125,141.3305775
+1020000010,2,青森県,Aomori,2,青森県,Aomori,東通村　小田野沢,ひがしどおりむら おだのさわ,Odanosawa,Odanosawa Higashidoori Village,41.22569868,141.4008525
+1020000011,2,青森県,Aomori,2,青森県,Aomori,東通村　老部,ひがしどおりむら おいっぺ,Oippe,Oippe Higashidoori Village,41.15681839,141.3853012
+1020000012,2,青森県,Aomori,2,青森県,Aomori,むつ市　近川,むつし ちかがわ,Chikagawa,Chikagawa Mutu City,41.19792189,141.2789177
+1020000025,2,青森県,Aomori,2,青森県,Aomori,横浜町　横浜町役場,よこはままち よこはままちやくば,Yokohama Town office,Yokohama Town office Yokohama Town,41.0831408,141.2476288
+1020000005,2,青森県,Aomori,2,青森県,Aomori,横浜町　吹越,よこはままち ふっこし,Fukkoshi,Fukkoshi Yokohama Town,41.02821473,141.2464265
+1020000004,2,青森県,Aomori,2,青森県,Aomori,六ヶ所村　泊,ろっかしょむら とまり,Tomari,Tomari Rokkasho Village,41.08793502,141.3914152
+1020000001,2,青森県,Aomori,2,青森県,Aomori,六ヶ所村　尾駮,ろっかしょむら おぶち,Obuchi,Obuchi Rokkasho Village,40.96516876,141.3714192
+1020000002,2,青森県,Aomori,2,青森県,Aomori,六ヶ所村　千歳平,ろっかしょむら ちとせだいら,Chitose-daira,Chitose-daira Rokkasho Village,40.88740268,141.2858736
+1020000003,2,青森県,Aomori,2,青森県,Aomori,六ヶ所村　平沼,ろっかしょむら ひらぬま,Hiranuma,Hiranuma Rokkasho Village,40.87518058,141.3669774
+1020000024,2,青森県,Aomori,2,青森県,Aomori,野辺地町　野辺地町役場,のへじまち のへじまちやくば,Noheji Town office,Noheji Town office Noheji Town,40.86462191,141.1289439
+1020000006,2,青森県,Aomori,2,青森県,Aomori,青森市　青森,あおもりし あおもり,Aomori,Aomori Aomori City,40.83017137,140.7917493
+1020000023,2,青森県,Aomori,2,青森県,Aomori,東北町　東北分庁舎,とうほくまち とうほくぶんちょうしゃ,Touhoku Branch office,Touhoku Branch office Touhoku Town,40.77841074,141.2180113
+1020000022,2,青森県,Aomori,2,青森県,Aomori,東北町　東北町役場,とうほくまち とうほくまちやくば,Touhoku Town office,Touhoku Town office Touhoku Town,40.72852846,141.2575488
+1020000021,2,青森県,Aomori,2,青森県,Aomori,三沢市　三沢市役所,みさわし みさわしやくしょ,Misawa City hall,Misawa City hall Misawa City,40.68027778,141.3694841
+1040000001,3,宮城県,Miyagi,4,宮城県,Miyagi,女川町　女川,おながわちょう おながわ,Onagawa,Onagawa Onagawa town,38.4468555,141.446418
+1040000002,3,宮城県,Miyagi,4,宮城県,Miyagi,女川町　小屋取,おながわちょう こやどり,Koyadori,Koyadori Onagawa Town,38.4068616,141.4986368
+1040000003,3,宮城県,Miyagi,4,宮城県,Miyagi,女川町　飯子浜,おながわちょう いいごはま,Iigohama,Iigohama Onagawa Town,38.3974179,141.4806665
+1040000005,3,宮城県,Miyagi,4,宮城県,Miyagi,石巻市　寄磯,いしのまきし よりいそ,Yoriiso,Ishinomaki City - Yoriiso,38.3907535,141.5228852
+1040000004,3,宮城県,Miyagi,4,宮城県,Miyagi,石巻市　鮫浦,いしのまきし さめのうら,Samenoura,Ishinomaki City - Samenoura,38.3829755,141.4881665
+1040000013,3,宮城県,Miyagi,4,宮城県,Miyagi,石巻市　小積,いしのまきし こづみ,Kodumi,Ishinomaki City - Kotsumi,38.3742813,141.4592806
+1040000006,3,宮城県,Miyagi,4,宮城県,Miyagi,石巻市　谷川,いしのまきし やがわ,Yagawa,Ishinomaki City - Yagawa,38.3660332,141.4881673
+1070000013,4,福島県,Fukushima,7,福島県,Fukushima,浪江町　幾世橋,なみえまち きよはし,Kiyohashi,Namie Town - Kyohashi,37.49724647,141.0160332
+1070000012,4,福島県,Fukushima,7,福島県,Fukushima,浪江町　浪江,なみえまち なみえ,Namie,Namie Town - Namie,37.49407951,140.9907296
+1070000011,4,福島県,Fukushima,7,福島県,Fukushima,浪江町　棚塩,なみえまち たなしお,Tanashio,Namie Town - Tanashio,37.49152494,141.029671
+1070000026,4,福島県,Fukushima,7,福島県,Fukushima,浪江町　請戸,なみえまち うけど,Ukedo,Namie Town - Ukedo,37.47441531,141.0340041
+1070000025,4,福島県,Fukushima,7,福島県,Fukushima,双葉町　上羽鳥,ふたばまち かみはとり,Kami-Hatori,Futaba Town - Kamihatori,37.45438833,140.9809527
+1070000018,4,福島県,Fukushima,7,福島県,Fukushima,双葉町　新山,ふたばまち しんざん,Shinzan,Futaba Town - Shinzan,37.45427748,140.9978957
+1070000010,4,福島県,Fukushima,7,福島県,Fukushima,双葉町　郡山,ふたばまち こおりやま,Kooriyama,Futaba Town - Kooriyama,37.4482787,141.0238938
+1070000009,4,福島県,Fukushima,7,福島県,Fukushima,双葉町　山田,ふたばまち やまだ,Yamada,Futaba Town - Yamada,37.43139116,140.9878414
+1070000008,4,福島県,Fukushima,7,福島県,Fukushima,大熊町　夫沢,おおくままち おっとざわ,Ottozawa,Ottozawa Okuma Town,37.40939421,141.0281443
+1070000007,4,福島県,Fukushima,7,福島県,Fukushima,大熊町　大野,おおくままち おおの,Ono,Ono Ookuma,37.4068941,140.9803705
+1070000024,4,福島県,Fukushima,7,福島県,Fukushima,大熊町　南台,おおくままち みなみだい,Minamidai,Minamidai Ookuma town,37.40658878,141.017173
+1070000006,4,福島県,Fukushima,7,福島県,Fukushima,大熊町　向畑,おおくままち むかいはた,Mukaihata,Mukaihata Okuma Town,37.39572921,141.0042297
+1070000023,4,福島県,Fukushima,7,福島県,Fukushima,大熊町　熊川,おおくままち くまがわ,Kumagawa,Town Ookuma Kumagawa,37.38403653,141.0272283
+1070000017,4,福島県,Fukushima,7,福島県,Fukushima,富岡町　夜の森,とみおかまち よのもり,Yonomori,Yonomori Tomioka Town,37.36470559,140.9953428
+1070000005,4,福島県,Fukushima,7,福島県,Fukushima,富岡町　富岡,とみおかまち とみおか,Tomioka,Tomioka Tomioka Town,37.34109768,141.0058703
+1070000004,4,福島県,Fukushima,7,福島県,Fukushima,富岡町　仏浜,とみおかまち ほとけはま,Hotokehama,Hotokehama Tomioka Town,37.33682056,141.0226466
+1070000003,4,福島県,Fukushima,7,福島県,Fukushima,富岡町　上郡山,とみおかまち かみこおりやま,Kamikooriyama,Kamikooriyama Tomioka Town,37.33205556,140.9756389
+1070000022,4,福島県,Fukushima,7,福島県,Fukushima,富岡町　下郡山,とみおかまち しもこおりやま,Shimokooriyama,Tomiokacho,37.32634947,141.0141199
+1070000021,4,福島県,Fukushima,7,福島県,Fukushima,楢葉町　松館,ならはまち まつだて,Matsudate,Matsudate Naraha town,37.30723977,140.9689298
+1070000002,4,福島県,Fukushima,7,福島県,Fukushima,楢葉町　波倉,ならはまち なみくら,Namikura,Namikura Naraha Town,37.30676845,141.0227028
+1070000001,4,福島県,Fukushima,7,福島県,Fukushima,楢葉町　繁岡,ならはまち しげおか,Shigeoka,Shigeoka Naraha Town,37.29960204,140.9987328
+1070000016,4,福島県,Fukushima,7,福島県,Fukushima,楢葉町　山田岡,ならはまち やまだおか,Yamadaoka,Yamadaoka Naraha Town,37.25816274,140.9965943
+1070000020,4,福島県,Fukushima,7,福島県,Fukushima,広野町　二ツ沼,ひろのまち ふたつぬま,Futatsunuma,Futatsunuma Hirono town,37.23374993,141.0015668
+1080000032,5,茨城県,Ibaraki,8,茨城県,Ibaraki,常陸太田市　久米,ひたちおおたし くめ,Kume,Kume Hitatioota City,36.53731694,140.477226
+1080000031,5,茨城県,Ibaraki,8,茨城県,Ibaraki,常陸大宮市　根本,ひたちおおみやし ねもと,Nemoto,Nemoto Hitachioomiya City,36.52703961,140.4352857
+1080000029,5,茨城県,Ibaraki,8,茨城県,Ibaraki,常陸太田市　真弓,ひたちおおたし まゆみ,Mayumi,Mayumi Hitatioota City,36.52398831,140.5697192
+1080000017,5,茨城県,Ibaraki,8,茨城県,Ibaraki,常陸太田市　磯部,ひたちおおたし いそべ,Isobe,Isobe Hitatioota City,36.51621018,140.5383325
+1080000028,5,茨城県,Ibaraki,8,茨城県,Ibaraki,日立市　大沼,ひたちし おおぬま,Onuma,Onuma Hitachi City,36.53371063,140.6291573
+1080000016,5,茨城県,Ibaraki,8,茨城県,Ibaraki,日立市　久慈,ひたちし くじ,Kuji,Kuji Hitachi City,36.50287979,140.611105
+1080000001,5,茨城県,Ibaraki,8,茨城県,Ibaraki,東海村　石神,とうかいむら いしがみ,Ishigami,Ishigami Tokai,36.48732521,140.571664
+1080000002,5,茨城県,Ibaraki,8,茨城県,Ibaraki,東海村　豊岡,とうかいむら とよおか,Toyooka,Toyooka Tokai Village,36.47899318,140.6022175
+1080000003,5,茨城県,Ibaraki,8,茨城県,Ibaraki,東海村　舟石川,とうかいむら ふないしかわ,Funaishikawa,Funaishikawa Tokai,36.46760444,140.5544435
+1080000005,5,茨城県,Ibaraki,8,茨城県,Ibaraki,東海村　押延,とうかいむら おしのべ,Oshinobe,Oshinobe Tokai Village,36.45010699,140.569443
+1080000006,5,茨城県,Ibaraki,8,茨城県,Ibaraki,東海村　村松,とうかいむら むらまつ,Muramatsu,Muramatsu Tokai-mura,36.44955213,140.5961074
+1080000030,5,茨城県,Ibaraki,8,茨城県,Ibaraki,那珂市　瓜連,なかし うりづら,Uridura,City Uridura Naka,36.49982084,140.4436193
+1080000025,5,茨城県,Ibaraki,8,茨城県,Ibaraki,那珂市　額田,なかし ぬかだ,Nukada,City Nukata Naka,36.49121222,140.5197234
+1080000018,5,茨城県,Ibaraki,8,茨城県,Ibaraki,那珂市　門部,なかし かどべ,Kadobe,Kadobe Naka City,36.48871191,140.4841716
+1080000024,5,茨城県,Ibaraki,8,茨城県,Ibaraki,那珂市　本米崎,なかし もとこめざき,Motokomezaki,Motokomezaki Naka City,36.48232508,140.5472209
+1080000026,5,茨城県,Ibaraki,8,茨城県,Ibaraki,那珂市　鴻巣,なかし こうのす,Kounosu,City Kounosu Naka,36.46871361,140.4633412
+1080000004,5,茨城県,Ibaraki,8,茨城県,Ibaraki,那珂市　横堀,なかし よこぼり,Yokobori,City Yokobori Naka,36.46538204,140.5200024
+1080000019,5,茨城県,Ibaraki,8,茨城県,Ibaraki,那珂市　菅谷,なかし すがや,Sugaya,Sugaya Naka City,36.444551,140.5000054
+1080000027,5,茨城県,Ibaraki,8,茨城県,Ibaraki,那珂市　後台,なかし ごだい,Godai,Godai Naka City,36.42483019,140.4744526
+1080000022,5,茨城県,Ibaraki,8,茨城県,Ibaraki,ひたちなか市　佐和,ひたちなかし さわ,Sawa,Sawa Hitachinaka City,36.43927434,140.5300024
+1080000007,5,茨城県,Ibaraki,8,茨城県,Ibaraki,ひたちなか市　馬渡,ひたちなかし まわたり,Mawatari,Mawatari Hitachinaka City,36.41149955,140.571388
+1080000012,5,茨城県,Ibaraki,8,茨城県,Ibaraki,ひたちなか市　常陸那珂,ひたちなかし ひたちなか,Hitachinaka,Hitachinaka Hitachinaka City,36.39677921,140.5924971
+1080000013,5,茨城県,Ibaraki,8,茨城県,Ibaraki,ひたちなか市　阿字ケ浦,ひたちなかし あじがうら,Ajigaura,Ajigaura Hitachinaka City,36.38733605,140.6074953
+1080000015,5,茨城県,Ibaraki,8,茨城県,Ibaraki,ひたちなか市　堀口,ひたちなかし ほりぐち,Horiguchi,"Horiguchi, Hitachinaka City",36.38650081,140.5150062
+1080000023,5,茨城県,Ibaraki,8,茨城県,Ibaraki,ひたちなか市　柳沢,ひたちなかし やなぎさわ,Yanagisawa,Sawa Yanagi Hitachinaka City,36.35761731,140.569723
+1080000014,5,茨城県,Ibaraki,8,茨城県,Ibaraki,水戸市　石川,みとし いしかわ,Ishikawa,"Ishikawa, Mito",36.39205401,140.4258462
+1080000037,5,茨城県,Ibaraki,8,茨城県,Ibaraki,水戸市　吉沢,みとし よしざわ,Yoshizawa,Sawa Yoshi Mito City,36.33317311,140.4622337
+1080000020,5,茨城県,Ibaraki,8,茨城県,Ibaraki,水戸市　大場,みとし おおば,Oba,Oba Mito City,36.32984119,140.5194514
+1080000033,5,茨城県,Ibaraki,8,茨城県,Ibaraki,大洗町　磯浜,おおあらいまち いそはま,Isohama,Isohama Oarai Town,36.31762234,140.5783349
+1080000008,5,茨城県,Ibaraki,8,茨城県,Ibaraki,大洗町　大貫,おおあらいまち おおぬき,Onuki,Town Ooarai Onuki,36.30845677,140.5525035
+1080000009,5,茨城県,Ibaraki,8,茨城県,Ibaraki,茨城町　広浦,いばらきまち ひろうら,Hiroura,Hiroura town Ibaraki,36.29317957,140.5108415
+1080000036,5,茨城県,Ibaraki,8,茨城県,Ibaraki,茨城町　谷田部,いばらきまち やたべ,Yatabe,Yatabe Ibaraki town,36.2915116,140.4464037
+1080000021,5,茨城県,Ibaraki,8,茨城県,Ibaraki,茨城町　海老沢,いばらきまち えびさわ,Ebisawa,Ebisawa town Ibaraki,36.25901575,140.4594597
+1080000034,5,茨城県,Ibaraki,8,茨城県,Ibaraki,鉾田市　田崎,ほこたし たさき,Tasaki,Tasaki Hokota City,36.25512976,140.5208431
+1080000010,5,茨城県,Ibaraki,8,茨城県,Ibaraki,鉾田市　造谷,ほこたし つくりや,Tsukuriya,Tsukuriya Hokota City,36.23846443,140.5108449
+1080000011,5,茨城県,Ibaraki,8,茨城県,Ibaraki,鉾田市　荒地,ほこたし あらじ,Araji,Araji Hokota City,36.23041101,140.5469537
+1080000038,5,茨城県,Ibaraki,8,茨城県,Ibaraki,鉾田市　上富田,ほこたし かみとだ,Kamitoda,Kamitoda Hokota City,36.20846621,140.4722383
+1080000035,5,茨城県,Ibaraki,8,茨城県,Ibaraki,鉾田市　樅山,ほこたし もみやま,Momiyama,Momiyama Hokota City,36.20041399,140.5508437
+1080000039,5,茨城県,Ibaraki,8,茨城県,Ibaraki,鉾田市　徳宿,ほこたし とくしゅく,Tokushuku,Tokushuku Hokota City,36.18680296,140.5061249
+1140000003,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,川崎区　殿町,かわさきく とのまち,Tonomachi,Tonomachi Kawasaki Ward,35.53825548,139.7542744
+1140000002,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,川崎区　浮島,かわさきく うきしま,Ukishima,Ukishima Kawasaki Ward,35.52825702,139.7667736
+1140000005,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,川崎区　大島,かわさきく おおしま,Oshima,Oshima Kawasaki Ward,35.52603349,139.7128889
+1140000004,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,川崎区　塩浜,かわさきく しおはま,Shiohama,Shiohama Kawasaki Ward,35.52520063,139.7414978
+1140000001,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,川崎区　千鳥,かわさきく ちどり,Chidori,Chidori Kawasaki Ward,35.52287369,139.7527082
+1140000012,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,横須賀市　西逸見,よこすかし にしへみ,Nishihemi,Nishihemi Yokosuka City,35.27995183,139.6481745
+1140000011,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,横須賀市　日の出町,よこすかし ひのでちょう,Hinode Town,Hinode Town Yokosuka City,35.2793959,139.6765052
+1140000009,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,横須賀市　浦賀,よこすかし うらが,Uraga,Uraga Yokosuka City,35.24995436,139.7134465
+1140000007,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,横須賀市　舟倉,よこすかし ふなぐら,Funagura,Funagura Yokosuka City,35.24134438,139.694559
+1140000008,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,横須賀市　佐原,よこすかし さはら,Sahara,Sahara Yokosuka City,35.23717827,139.6892817
+1140000006,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,横須賀市　久里浜,よこすかし くりはま,Kurihama,Kurihama Yokosuka City,35.23574722,139.6966167
+1140000010,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,横須賀市　ハイランド,よこすかし はいらんど,Hairando,Hairando Yokosuka City,35.22412426,139.6848377
+1140000013,6,神奈川県,Kanagawa,14,神奈川県,Kanagawa,横須賀市　長沢,よこすかし ながさわ,Nagasawa,Nagasawa Yokosuka City,35.20412668,139.6728947
+1150000005,7,新潟県,Niigata,15,新潟県,Niigata,刈羽村　勝山,かりわむら かつやま,Katsuyama,Katsuyama Kariwa village,37.44467165,138.6295905
+1150000004,7,新潟県,Niigata,15,新潟県,Niigata,刈羽村　刈羽,かりわむら かりわ,Kariwa,Kariwa Kariwa Village,37.4252298944444,138.620980588889
+1150000008,7,新潟県,Niigata,15,新潟県,Niigata,刈羽村　赤田町方,かりわむら あかだまちがた,Akadamachigata,Akadamachigata Kariwa Village,37.4146758833333,138.643200311111
+1150000003,7,新潟県,Niigata,15,新潟県,Niigata,刈羽村　下高町,かりわむら しもたかまち,Shimo-Takamachi,Simo-Takamachi Kariwa Village,37.4091206722222,138.607371080556
+1150000007,7,新潟県,Niigata,15,新潟県,Niigata,柏崎市　西山,かしわざきし にしやま,Nishiyama,Nishiyama Kashiwazaki City,37.457726125,138.665975408333
+1150000006,7,新潟県,Niigata,15,新潟県,Niigata,柏崎市　宮川,かしわざきし みやがわ,Miyagawa,Miyagawa Kashiwazaki City,37.4564474277778,138.61375895
+1150000002,7,新潟県,Niigata,15,新潟県,Niigata,柏崎市　荒浜,かしわざきし あらはま,Arahama,Arahama Kashiwazaki City,37.4063426027778,138.580151622222
+1150000009,7,新潟県,Niigata,15,新潟県,Niigata,柏崎市　土合,かしわざきし どあい,Doai,Doai Kashiwazaki City,37.3932891333333,138.599038752778
+1150000001,7,新潟県,Niigata,15,新潟県,Niigata,柏崎市　柏崎市街,かしわざきし かしわざきしがい,Kashiwazaki-shigai,Kashiwazaki kashiwazaki City,37.3680136972222,138.558766269444
+1150000010,7,新潟県,Niigata,15,新潟県,Niigata,発電所北,はつでんしょきた,Power Station-North,Power Station-North,37.4308333333333,138.611666666667
+1150000011,7,新潟県,Niigata,15,新潟県,Niigata,発電所南,はつでんしょみなみ,Power Station-South,Power Station-South,37.4175,138.601111111111
+1170000009,8,石川県,Ishikawa,17,石川県,Ishikawa,七尾市　土川,ななおし つちかわ,Tsuchikawa,Tsuchikawa Nanao City,37.1115244444444,136.811511916667
+1170000010,8,石川県,Ishikawa,17,石川県,Ishikawa,七尾市　大津,ななおし おおつ,Otsu,Oodu Nanao City,37.0694247444444,136.846724475
+1170000008,8,石川県,Ishikawa,17,石川県,Ishikawa,志賀町　風無,しかまち かざなし,Kazanashi,Kazanashi Shika Town,37.1407166944444,136.686658525
+1170000005,8,石川県,Ishikawa,17,石川県,Ishikawa,志賀町　熊野,とぎまち くまの,Kumano,Kumano Shika Town,37.0892838666667,136.766845261111
+1170000004,8,石川県,Ishikawa,17,石川県,Ishikawa,志賀町　福浦,とぎまち ふくうら,Fukura,Fukura Shika Town,37.080941875,136.727588552778
+1170000002,8,石川県,Ishikawa,17,石川県,Ishikawa,志賀町　直海,しかまち のうみ,Noumi,Noumi Shika Town,37.0704309111111,136.779636902778
+1170000007,8,石川県,Ishikawa,17,石川県,Ishikawa,志賀町　五里峠,しかまち ごりとうげ,Goritoge,Goritoge Shika Town,37.0519883916667,136.765464294444
+1170000003,8,石川県,Ishikawa,17,石川県,Ishikawa,志賀町　赤住,しかまち あかすみ,Akasumi,Akasumi Shika Town,37.0499595472222,136.731561891667
+1170000001,8,石川県,Ishikawa,17,石川県,Ishikawa,志賀町　志賀,しかまち しか,Shika,Shika Shika Town,37.026177525,136.762854975
+1170000006,8,石川県,Ishikawa,17,石川県,Ishikawa,辰口（比較対照局）,たつのくち（ひかくたいしょうきょく）,Tatsunokuchi,Tatsunokuti Authority (comparative),36.4297369805556,136.533721638889
+1180000021,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,南越前町　河野,みなみえちぜんちょう こうの,Kouno,Kouno Minami-Echizen Town,35.8248000611111,136.068509041667
+1180000003,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,敦賀市　立石,つるがし たていし,Tateishi,Tateishi Tsuruga City,35.7581429611111,136.023239602778
+1180000002,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,敦賀市　浦底,つるがし うらそこ,Urasoko,Urasoko Tsuruga City,35.7395340944444,136.027406877778
+1180000006,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,敦賀市　白木,つるがし しらき,Shiraki,Shiraki Tsuruga City,35.7312006611111,135.978246227778
+1180000007,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,敦賀市　白木峠,つるがし しらきとうげ,Shiraki pass,Shiraki pass Tsuruga City,35.7245348305556,135.977413344444
+1180000001,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,敦賀市　敦賀,つるがし つるが,Tsuruga,Tsuruga Tsuruga City,35.6426027083333,136.057407188889
+1180000004,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,美浜町　丹生,みはまちょう にゅう,Nyuu,Nyuu Mihama Town,35.71161995,135.967970361111
+1180000005,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,美浜町　竹波,みはまちょう たけなみ,Takenami,Takenami Mihama Town,35.6945391583333,135.978525586111
+1180000022,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,美浜町　坂尻,みはまちょう さかじり,Sakajiri,Sakajiri Mihama Town,35.6198266,135.961029963889
+1180000012,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,高浜町　音海,たかはまちょう おとみ,Otomi,Otomi Takahama Town,35.5359418083333,135.506061333333
+1180000013,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,高浜町　神野浦,たかはまちょう こうのうら,Kounoura,Kounoura Takahama Town,35.5220545972222,135.493008194444
+1180000025,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,高浜町　山中,たかはまちょう やまなか,Yamanaka,Yamanaka Takahama Town,35.5198314444444,135.467733525
+1180000011,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,高浜町　小黒飯,たかはまちょう おぐるい,Ogurui,Ogurui Takahama Town,35.5153892416667,135.512172497222
+1180000023,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,小浜市　阿納尻,おばまし あのじり,Anojiri,Anojiri Obama City,35.5320566694444,135.764656383333
+1180000008,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,小浜市　小浜,おばまし おばま,Obama,Obama Obama City,35.4959481944444,135.745769238889
+1180000010,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,おおい町　宮留,おおいちょう みやどめ,Miyadome,Miyadome Ohi Town,35.5312232083333,135.656330838889
+1180000009,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,おおい町　日角浜,おおいちょう ひつはま,Hitsuhama,Hitsuhama Ohi Town,35.5273345944444,135.64605385
+1180000024,9,福井県 京都府,Fukui/Kyoto,18,福井県,Fukui,おおい町　長井,おおいちょう ながい,Nagai,Nagai Ohi Town,35.4773382333333,135.641610466667
+1260000001,9,福井県 京都府,Fukui/Kyoto,26,京都府,Kyoto,舞鶴市　大山,まいづるし おおやま,Oyama,Oyama Maizuru City,35.5486888944444,135.450873622222
+1260000004,9,福井県 京都府,Fukui/Kyoto,26,京都府,Kyoto,舞鶴市　塩汲,まいづるし しおくみ,Shiokumi,Shiokumi Maizuru City,35.5184422416667,135.452179613889
+1260000005,9,福井県 京都府,Fukui/Kyoto,26,京都府,Kyoto,舞鶴市　岡安,まいづるし おかやす,Okayasu,Okayasu Maizuru City,35.4981942305556,135.438014541667
+1260000002,9,福井県 京都府,Fukui/Kyoto,26,京都府,Kyoto,舞鶴市　吉坂,まいづるし きちさか,Kichisaka,Kichisaka Maizuru City,35.4864183972222,135.462734236111
+1260000003,9,福井県 京都府,Fukui/Kyoto,26,京都府,Kyoto,舞鶴市　倉梯,まいづるし くらはし,Kurahashi,Kurahashi Maizuru City,35.4570604166667,135.393186152778
+1260000006,9,福井県 京都府,Fukui/Kyoto,26,京都府,Kyoto,綾部市　老富,あやべし おいとみ,Oitomi,Oitomi Ayabe City,35.4384516916667,135.486621169444
+1220000018,10,静岡県,Shizuoka,22,静岡県,Shizuoka,菊川市　小笠支所,きくがわし おがさししょ,Ogasa branch,Ogasa branch Kikugawa City,34.6944328777778,138.090003433333
+1220000017,10,静岡県,Shizuoka,22,静岡県,Shizuoka,掛川市　大東支所,かけがわし だいとうししょ,Daitou branch,Daitou branch Kakegawa City,34.6666579305556,138.055007672222
+1220000008,10,静岡県,Shizuoka,22,静岡県,Shizuoka,牧之原市　地頭方小学校,まきのはらし じとうがたしょうがっこう,Jitougata primary school,Jitougata primaty school Makinohara City,34.6374993972222,138.193883391667
+1220000016,10,静岡県,Shizuoka,22,静岡県,Shizuoka,御前崎市　浜岡北小学校,おまえざきし はまおかきたしょうがっこう,Hamaokakita primary school,Hamaokakita primary school Omaezaki City,34.6686045972222,138.136111163889
+1220000009,10,静岡県,Shizuoka,22,静岡県,Shizuoka,御前崎市　センター気象局,おまえざきし せんたーきしょうきょく,Ｗeather observation station,Omaezaki City Ｗeather observation station,34.6386082472222,138.131945836111
+1220000013,10,静岡県,Shizuoka,22,静岡県,Shizuoka,御前崎市　監視センター,おまえざきし かんしせんたー,monitoring center,Omaezaki City monitoring center,34.6386082472222,138.131945836111
+1220000002,10,静岡県,Shizuoka,22,静岡県,Shizuoka,御前崎市　中町,おまえざきし なかまち,Nakamachi,Nakamachi Omaezaki City,34.6380526305556,138.126668583333
+1220000005,10,静岡県,Shizuoka,22,静岡県,Shizuoka,御前崎市　佐倉三区,おまえざきし さくらさんく,Sakurasan Ward,Sakurasan Ward Omaezaki City,34.6367288166667,138.156832269444
+1220000003,10,静岡県,Shizuoka,22,静岡県,Shizuoka,御前崎市　桜ヶ池公民館,おまえざきし さくらがいけこうみんかん,Sakuragaike community hall,Sakuragaike community hall Omaezaki City,34.6366643916667,138.141944902778
+1220000014,10,静岡県,Shizuoka,22,静岡県,Shizuoka,御前崎市　草笛,おまえざきし くさぶえ,Kusabue,Kusabue Omaezaki City,34.634998125,138.146111208333
+1220000001,10,静岡県,Shizuoka,22,静岡県,Shizuoka,御前崎市　白砂,おまえざきし しらすな,Shirasuna,Shirasuna Omaezaki City,34.6299979333333,138.122502544444
+1220000004,10,静岡県,Shizuoka,22,静岡県,Shizuoka,御前崎市　上ノ原,おまえざきし うえのはら,Uenohara,Uenohara Omaezaki City,34.6269436777778,138.149166769444
+1220000006,10,静岡県,Shizuoka,22,静岡県,Shizuoka,御前崎市　平場,おまえざきし ひらば,Hiraba,Hiraba Omaezaki City,34.6213887833333,138.157777091667
+1220000015,10,静岡県,Shizuoka,22,静岡県,Shizuoka,御前崎市　新神子,おまえざきし しんかんご,Shinkango,Shinkango Omaezaki City,34.6155562972222,138.161665736111
+1220000007,10,静岡県,Shizuoka,22,静岡県,Shizuoka,御前崎市　白羽小学校,おまえざきし しろわしょうがっこう,Shirowa primary school,Shirowa primary school Omaezaki City,34.6116688416667,138.189996061111
+1270000013,11,大阪府,Osaka,27,大阪府,Osaka,東大阪市立上小阪小学校局,ひがしおおさかしりつ かみこさかしょうがっこう きょく,Kamikosaka primary school,Higashiosaka municipal Kamikosaka primary scool Station,34.6530016083333,135.584800202778
+1270000014,11,大阪府,Osaka,27,大阪府,Osaka,近畿大学原子力研究所北敷地局,きんきだいがく げんしりょくけんきゅうじょ きたしきち きょく,UTR-Kinki-North,North point of Kinki University Atomic Energy Research Instirute Station,34.6495076111111,135.587350055556
+1270000015,11,大阪府,Osaka,27,大阪府,Osaka,近畿大学原子力研究所南敷地局,きんきだいがく げんしりょくけんきゅうじょ みなみしきち きょく,UTR-Kinki-South,South point of Kinki University Atomic Energy Research Instirute Station,34.6487743555556,135.587100091667
+1270000012,11,大阪府,Osaka,27,大阪府,Osaka,近畿大学グラウンド局,きんきだいがく ぐらうんど きょく,Kinki University-Ground,The athletic field Station of Kinki University,34.6487160472222,135.588008347222
+1270000006,11,大阪府,Osaka,27,大阪府,Osaka,熊取町役場局,くまとりちょうやくば きょく,Kumatori Town office,Kumatori Town office Station,34.4013404583333,135.355820366667
+1270000003,11,大阪府,Osaka,27,大阪府,Osaka,山の手台1号公園局,やまのてだいいちごうこうえん きょく,Yamanotedai-No.1 Park,Yamanotedai-No.1 Park Station,34.3955300194444,135.3546372
+1270000002,11,大阪府,Osaka,27,大阪府,Osaka,熊取町立西小学校局,くまとりちょうりつ にししょうがっこう きょく,Kumatori-Nishi primary school,Kumatori town Nishi primary school Station,34.3943410111111,135.344171752778
+1270000004,11,大阪府,Osaka,27,大阪府,Osaka,アトム共同保育園局,あとむきょうどうほいくえん きょく,Atom-kyoudou nursery school,Atom-kyoudou nursery school Station,34.3898001388889,135.353217905556
+1270000001,11,大阪府,Osaka,27,大阪府,Osaka,大阪府立熊取オフサイトセンター局,おおさかふりつ くまとり おふさいとせんたー きょく,Kumatori OFC,Osaka prefectural Kumatori off-site-center Station,34.3876420166667,135.350193219444
+1270000005,11,大阪府,Osaka,27,大阪府,Osaka,熊取町立南小学校局,くまとりちょうりつ みなみしょうがっこう きょく,Kumatori-Minami primary school,Kumatori town Minami primary school Station,34.3838425916667,135.355820419444
+1270000008,11,大阪府,Osaka,27,大阪府,Osaka,大阪府立日根野高等学校局,おおさかふりつ ひねのこうとうがっこう きょく,Hineno high school,Osaka prefectural Hineno high scool Station,34.3896637083333,135.338791719444
+1270000007,11,大阪府,Osaka,27,大阪府,Osaka,泉佐野市立日根野浄水場局,いずみさのしりつ ひねのじょうすいじょう きょく,Hineno filtration plant,Izumisano municipal Hineno filtration plant Station,34.3871974611111,135.342482919444
+1270000009,11,大阪府,Osaka,27,大阪府,Osaka,大阪府立佐野支援学校局,おおさかふりつ さのしえんがっこう きょく,Sano ｓupporting school,Osaka prefectural Sano supporting school Station,34.3828870166667,135.347396261111
+1270000010,11,大阪府,Osaka,27,大阪府,Osaka,泉佐野市立日根野小学校局,いずみさのしりつ ひねのしょうがっこう きょく,Hineno primary school,Izumisano municipal Hineno primary scool Station,34.3802316277778,135.3366555
+1270000011,11,大阪府,Osaka,27,大阪府,Osaka,泉佐野市立大池グラウンド局,いずみさのしりつ おおいけぐらうんど きょく,Ooike athletic field,Izumisano municipal Oike athletic field Station,34.37906535,135.352184677778
+1330000002,12,岡山県 鳥取県,Okayama/Tottori,33,岡山県,Okayama,鏡野町　赤和瀬,かがみのちょう あかわせ,Akawase,Akawase Kagamino Town,35.3198300722222,133.958704927778
+1330000001,12,岡山県 鳥取県,Okayama/Tottori,33,岡山県,Okayama,鏡野町　人形峠,かがみのちょう にんぎょうとうげ,Ningyotoge,Ningyoutoge Kagamino Town,35.3133031555556,133.931932172222
+1330000003,12,岡山県 鳥取県,Okayama/Tottori,33,岡山県,Okayama,鏡野町　天王,かがみのちょう てんのう,Ten-no,Ten-no Kagamino Town,35.2998322888889,133.942595525
+1310000001,12,岡山県 鳥取県,Okayama/Tottori,33,鳥取県,Tottori,三朝町　木地山,みささちょう きじやま,Kijiyama,Kijiyama Misasa Town,35.3176072388889,133.888711261111
+1320000009,13,島根県,Shimane,32,島根県,Shimane,松江市　大芦,まつえし おわし,Owashi,Owashi Matsue City,35.5533963555556,133.050165466667
+1320000005,13,島根県,Shimane,32,島根県,Shimane,松江市　片句,まつえし かたく,Kataku,Kataku Matsue City,35.5428401333333,132.983229225
+1320000024,13,島根県,Shimane,32,島根県,Shimane,松江市　手結,まつえし たゆ,Tayu,Tayu Matsue City,35.5378403055556,132.972397313889
+1320000002,13,島根県,Shimane,32,島根県,Shimane,松江市　御津,まつえし みつ,Mitsu,Mitsu Matsue City,35.5358976583333,133.028779908333
+1320000004,13,島根県,Shimane,32,島根県,Shimane,松江市　深田北,まつえし ふかだきた,Fukada-kita,Fukada-kita Matsue City,35.5317308888889,132.997950308333
+1320000023,13,島根県,Shimane,32,島根県,Shimane,松江市　上講武,まつえし かみこうぶ,Kami-koubu,Kami-koubu Matsue City,35.5270102416667,133.042667527778
+1320000003,13,島根県,Shimane,32,島根県,Shimane,松江市　古浦,まつえし こうら,Koura,Koura Matsue City,35.5245088,132.977952841667
+1320000006,13,島根県,Shimane,32,島根県,Shimane,松江市　北講武,まつえし きたこうぶ,Kita-koubu,Kita-koubu Matsue City,35.523121475,133.022947972222
+1320000007,13,島根県,Shimane,32,島根県,Shimane,松江市　佐陀本郷,まつえし さだほんごう,Sadahongou,Sadahongou Matsue City,35.5195102111111,132.996839852778
+1320000001,13,島根県,Shimane,32,島根県,Shimane,松江市　西浜佐陀,まつえし にしはまさだ,Nishi-hamasada,Nishi-hamasada Matsue City,35.4747931555556,133.012950761111
+1320000008,13,島根県,Shimane,32,島根県,Shimane,松江市　末次,まつえし すえつぐ,Suetsugu,Suetsugu Matsue City,35.4678508722222,133.048780075
+1380000031,14,愛媛県,Ehime,38,愛媛県,Ehime,伊方町　伊方越,いかたちょう いかたごし,Ikatagoshi,Ikatagoshi Ikata Town,33.5013409138889,132.342657175
+1380000003,14,愛媛県,Ehime,38,愛媛県,Ehime,伊方町　湊浦,いかたちょう みなとうら,Minatoura,Minatoura Ikata Town,33.4883482527778,132.354559155556
+1380000032,14,愛媛県,Ehime,38,愛媛県,Ehime,伊方町　川永田,いかたちょう かわながた,Kawanagata,Kawanagata Ikata Town,33.4836203638889,132.336847094444
+1380000001,14,愛媛県,Ehime,38,愛媛県,Ehime,伊方町　九町越,いかたちょう くちょうごし,Kuchogoshi,Kuchogoshi Ikata Town,33.4816336833333,132.309175316667
+1380000002,14,愛媛県,Ehime,38,愛媛県,Ehime,伊方町　九町,いかたちょう くちょう,Kucho,Kucho Ikata Town,33.4762843333333,132.3101614
+1380000035,14,愛媛県,Ehime,38,愛媛県,Ehime,伊方町　大成,いかたちょう たいせい,Taisei,Taisei Ikata Town,33.4730641361111,132.275569011111
+1380000033,14,愛媛県,Ehime,38,愛媛県,Ehime,伊方町　豊之浦,いかたちょう とよのうら,Toyonoura,Toyonoura Ikata Town,33.4719546944444,132.323340558333
+1380000034,14,愛媛県,Ehime,38,愛媛県,Ehime,伊方町　加周,いかたちょう かしゅう,Kashu,Kashu Ikata Town,33.4647321888889,132.287790161111
+1410000009,15,佐賀県 長崎県,Saga/Nagasaki,41,佐賀県,Saga,唐津市　先部,からつし さきべ,Sakibe,Sakibe Karatsu City,33.5355510333333,129.860841497222
+1410000011,15,佐賀県 長崎県,Saga/Nagasaki,41,佐賀県,Saga,唐津市　京泊先,からつし きょうどまりさき,Kyoudomarisaki,Kyoudomarisaki Karatsu City,33.4765200722222,129.825775944444
+1410000003,15,佐賀県 長崎県,Saga/Nagasaki,41,佐賀県,Saga,玄海町　串,げんかいちょう くし,Kushi,Kushi Genkai Town,33.5163421194444,129.853550775
+1410000001,15,佐賀県 長崎県,Saga/Nagasaki,41,佐賀県,Saga,玄海町　今村,げんかいちょう いまむら,Imamura,Imamura Genkai Town,33.5138421166667,129.839385388889
+1410000010,15,佐賀県 長崎県,Saga/Nagasaki,41,佐賀県,Saga,玄海町　外津浦,げんかいちょう ほかわづうら,Hokawaduura,Hokawaduura Genkai Town,33.513584025,129.847915188889
+1410000002,15,佐賀県 長崎県,Saga/Nagasaki,41,佐賀県,Saga,玄海町　平尾,げんかいちょう ひらお,Hirao,Hirao Genkai Town,33.4960662694444,129.845662986111
+1420000001,15,佐賀県 長崎県,Saga/Nagasaki,41,長崎県,Nagasaki,鷹島町局,たかしままちきょく,Takasimamachi,Takashimamati,33.4482914194444,129.761615302778
+1460000004,16,鹿児島県,Kagoshima,46,鹿児島県,Kagoshima,薩摩川内市　港,さつませんだいし みなと,Minato,Minato Satsuma-sendai City,31.8515104111111,130.201908091667
+1460000001,16,鹿児島県,Kagoshima,46,鹿児島県,Kagoshima,薩摩川内市　久見崎,さつませんだいし ぐみさき,Gumisaki,Gumisaki Satsuma-sendai City,31.8395672166667,130.199130825
+1460000007,16,鹿児島県,Kagoshima,46,鹿児島県,Kagoshima,薩摩川内市　小平,さつませんだいし こだいら,Kodaira,Kodaira Satsuma-sendai City,31.8276238833333,130.194964772222
+1460000005,16,鹿児島県,Kagoshima,46,鹿児島県,Kagoshima,薩摩川内市　高江,さつませんだいし たかえ,Takae,Takae Satsuma-sendai City,31.8237368583333,130.251349197222
+1460000003,16,鹿児島県,Kagoshima,46,鹿児島県,Kagoshima,薩摩川内市　寄田,さつませんだいし よりた,Yorita,Yorita Satsuma-sendai City,31.8154024972222,130.181077216667
+1460000002,16,鹿児島県,Kagoshima,46,鹿児島県,Kagoshima,薩摩川内市　上野,さつませんだいし うえの,Ueno,Ueno Satsuma-sendai City,31.8140141,130.196909447222
+1460000006,16,鹿児島県,Kagoshima,46,鹿児島県,Kagoshima,薩摩川内市　監視センター,さつませんだいし かんしせんたー,Monitoring center,Satsuma-sendai monitoring center Satsuma-sendai City,31.812905675,130.306343588889
+
+
+[1] Fields marked in orange have to be double-checked.
+[2] Names marked in orange color are probably erroneous and due to correction.
